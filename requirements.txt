@@ -1,0 +1,6 @@
+peewee==3.17.1
+datetime==5.5
+requests==2.31.0
+pyTelegramBotAPI==4.16.1
+geopy==2.4.1
+psycopg2-binary==2.9.9
